@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451191754294",
+    "project_id": "prgmb-sitari",
+    "storage_bucket": "prgmb-sitari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451191754294:android:b185291fee3f3749eb5297",
+        "android_client_info": {
+          "package_name": "com.example.prgmb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451191754294-p6h8m1ec170tdhg2cbjcgh5b0mheeaag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2u1o1KWD53HlrtoLpYfLD0dAz9qIILd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451191754294-p6h8m1ec170tdhg2cbjcgh5b0mheeaag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

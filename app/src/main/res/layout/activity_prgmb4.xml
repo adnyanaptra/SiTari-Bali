@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".prgmb4">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/image_14_removebg_preview"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="65dp"/>
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="217dp"
+                android:layout_height="52dp"
+                android:layout_marginLeft="90dp"
+                android:layout_marginTop="90dp"
+                app:srcCompat="@drawable/rejangrenteng" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="329dp"
+                android:layout_height="502dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="400dp"
+                android:textColor="@color/white"
+                android:justificationMode="inter_word"
+                android:text="Tari Rejang Renteng berasal dari kata “renteng/rente” yang memiliki arti renta atau tua/sepuh. Makna tua ini bukan dalam artian fisik tubuh yang menua, namun lebih ke arah seseorang yang dituakan atau sudah menikah ataupun seorang pemangku (orang yang sudah disucikan).
+
+Tarian ini digelar pada hari raya besar dalam upacara keagamaan Hindu (piodalan) di Pura Dalem Ped, letaknya di halaman bagian dalam pura (jeroan) di depan pelinggih. Tari ini diperagakan oleh penari wanita, baik secara berkelompok maupun massal, dengan rentang usia penarinya dari yang tua, setengah baya hingga yang muda. Para penari secara sadar, tulus, dan penuh sukarela dalam memperagakannya sebagai wujud rasa hormat, pujian dan mengharap keberkahan kepada sang pencipta. Di beberapa desa, pada tari ini terdapat “Pengarep” (pemandu tari) berada diposisi bagian depan dan penari lainnya berada di posisi belakang seraya mengikuti gerakaannya.
+
+Tari rejang renteng juga memiliki makna membebaskan sifat buruk berupa ego pribadi, rasa iri, dengki dan rasa tersaingi, agar dapat membaur dengan lingkungan sekitar dan menjadi pribadi yang penuh kasih. Rejang juga memiliki makna ‘terikat’ (berkaitan satu dengan yang lainnya) yang melambangkan keharmonisan, sehingga pada akhir tarian para penari saling berpegangan tangan seraya membentuk formasi lingkaran.
+Dua fungsi utama Tari Rejang Renteng yaitu Wali dan Bebali. Fungsi Wali yakni menjadi tarian sakral yang digelar untuk piodalan di Pura Dalem Ped, tepatnya pada upacara keagamaan (Dewa Yadnya) yang berkaitan erat dengan hubungan manusia dan sang pencipta.
+
+Sedangkan fungsi Bebali ialah tarian ini digunakan untuk upacara Manusa Yadnya (persembahan yang suci, tulus dan ikhlas untuk pemeliharaan, pendidikan dan pensucian secara spiritual). Dimana seseorang tersebut berkewajiban untuk menyesuaikan dan membawa diri di manapun ia berpijak untuk melaksanakan ngayah di berbagai kegiatan adat. Misalnya: pekan budaya, pentas budaya, dan festival desa.
+
+Tak hanya itu, masyarakat setempat percaya bahwa dengan menggelar tarian rejang renteng dapat mendatangkan keselamatan, kesembuhan, dan ketentraman berkat turunnya Dewa Dewi Hindu. Tarian ini juga dipercaya dapat menghilangkan, mengusir maupun mengendalikan energi negatif yang kerap mengusik kehidupan di alam beserta isinya." />
+
+            <ImageView
+                android:id="@+id/imageView29"
+                android:layout_width="322dp"
+                android:layout_height="170dp"
+                app:srcCompat="@drawable/tari_rejang_renteng"
+                android:layout_marginLeft="38dp"
+                android:layout_marginTop="200dp"/>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
